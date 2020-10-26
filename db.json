@@ -6,13 +6,14 @@
             "number": "NL25 TRIO 0253 8443 20",
             "balance": 1000,
             "currency": "GBP",
-            "transaction": {
+            "transaction": 
+            [{
               "name": "John Smith",
               "type": "Payment",
               "date": "08/06/2020",
               "status": "Approved",
               "amount": 70
-            }
+            }]
         },
         {
             "kind": "current",
@@ -20,13 +21,14 @@
             "number": "NL25 TRIO 0269 8445 60",
             "balance": 1500.20,
             "currency": "GBP",
-            "transaction": {
+            "transaction": 
+            [{
               "name": "David Lee",
               "type": "Payment",
               "date": "22/07/2020",
               "status": "Approved",
               "amount": 720
-            }
+            }]
         },
         {
             "kind": "savings",
@@ -34,13 +36,14 @@
             "number": "NL81 TRIO 0212  4710 66",
             "balance": 0,
             "currency": "GBP",
-            "transaction": {
+            "transaction": 
+            [{
               "name": "David Lee",
               "type": "Deposit",
               "date": "01/10/2020",
               "status": "Pending",
               "amount": 100
-            }
+            }]
         },
         {
             "kind": "term",
@@ -48,13 +51,14 @@
             "number": "NL81 TRIO 0212 4710 66",
             "balance": 13210.47,
             "currency": "GBP",
-            "transaction": {
+            "transaction": 
+            [{
               "name": "David Lee",
               "type": "Payment",
               "date": "05/09/2020",
               "status": "Approved",
               "amount": 257
-            }
+            }]
         },
         {
             "kind": "loan",
@@ -62,13 +66,14 @@
             "number": "NL25 TRIO 0253 8443 20",
             "balance": 150000,
             "currency": "GBP",
-            "transaction": {
+            "transaction": 
+            [{
               "name": "David Lee",
               "type": "Deposit",
               "date": "26/09/2020",
               "status": "Approved",
               "amount": 7000
-            }
+            }]
         }
     ]
 }
