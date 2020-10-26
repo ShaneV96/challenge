@@ -5,35 +5,70 @@
             "title": "Current Account",
             "number": "NL25 TRIO 0253 8443 20",
             "balance": 1000,
-            "currency": "GBP"
+            "currency": "GBP",
+            "transaction": {
+              "name": "John Smith",
+              "type": "Payment",
+              "date": "08/06/2020",
+              "status": "Approved",
+              "Amount": 70
+            }
         },
         {
             "kind": "current",
             "title": "Joint Account",
             "number": "NL25 TRIO 0269 8445 60",
             "balance": 1500.20,
-            "currency": "GBP"
+            "currency": "GBP",
+            "transaction": {
+              "name": "David Lee",
+              "type": "Payment",
+              "date": "22/07/2020",
+              "status": "Approved",
+              "Amount": 720
+            }
         },
         {
             "kind": "savings",
             "title": "Savings Account",
             "number": "NL81 TRIO 0212  4710 66",
             "balance": 0,
-            "currency": "GBP"
+            "currency": "GBP",
+            "transaction": {
+              "name": "Matt Baker",
+              "type": "Deposit",
+              "date": "01/10/2020",
+              "status": "Pending",
+              "Amount": 100
+            }
         },
         {
             "kind": "term",
             "title": "Term Deposit",
             "number": "NL81 TRIO 0212 4710 66",
             "balance": 13210.47,
-            "currency": "GBP"
+            "currency": "GBP",
+            "transaction": {
+              "name": "Walter Ross",
+              "type": "Payment",
+              "date": "05/09/2020",
+              "status": "Approved",
+              "Amount": 257
+            }
         },
         {
             "kind": "loan",
             "title": "Our home loan",
             "number": "NL25 TRIO 0253 8443 20",
             "balance": 150000,
-            "currency": "GBP"
+            "currency": "GBP",
+            "transaction": {
+              "name": "Alice Bishop",
+              "type": "Deposit",
+              "date": "26/09/2020",
+              "status": "Approved",
+              "Amount": 7000
+            }
         }
     ]
 }
