@@ -5,7 +5,7 @@
             "title": "Current Account",
             "number": "NL25 TRIO 0253 8443 20",
             "balance": 1000,
-            "currency": "GBP",
+            "currency": "£",
             "transaction": 
             [{
               "name": "John Smith",
@@ -20,7 +20,7 @@
             "title": "Joint Account",
             "number": "NL25 TRIO 0269 8445 60",
             "balance": 1500.20,
-            "currency": "GBP",
+            "currency": "£",
             "transaction": 
             [{
               "name": "David Lee",
@@ -35,7 +35,7 @@
             "title": "Savings Account",
             "number": "NL81 TRIO 0212  4710 66",
             "balance": 0,
-            "currency": "GBP",
+            "currency": "£",
             "transaction": 
             [{
               "name": "David Lee",
@@ -50,7 +50,7 @@
             "title": "Term Deposit",
             "number": "NL81 TRIO 0212 4710 66",
             "balance": 13210.47,
-            "currency": "GBP",
+            "currency": "£",
             "transaction": 
             [{
               "name": "David Lee",
@@ -65,7 +65,7 @@
             "title": "Our home loan",
             "number": "NL25 TRIO 0253 8443 20",
             "balance": 150000,
-            "currency": "GBP",
+            "currency": "£",
             "transaction": 
             [{
               "name": "David Lee",
